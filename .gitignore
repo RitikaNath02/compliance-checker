@@ -1,2 +1,11 @@
 .venv/
 
+pgvectorscale-rag-solution/.env
+
+pgvectorscale-rag-solution/VgrabCommunicationsInc_20200129_10-K_EX-10.33_11958828_EX-10.33_Development Agreement.txt_analysis_report.pdf
+pgvectorscale-rag-solution/contract_analysis_report.pdf
+pgvectorscale-rag-solution/report.pdf
+pgvectorscale-rag-solution/all_reports.zip
+pgvectorscale-rag-solution/app/__pycache__/*.pyc
+pgvectorscale-rag-solution/app/config/__pycache__/*.pyc
+pgvectorscale-rag-solution/app/database/__pycache__/*.pyc
